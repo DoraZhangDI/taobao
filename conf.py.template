@@ -1,0 +1,25 @@
+#coding:utf-8
+
+#邮箱
+username_mail = ''					#mailname do not contain domain 
+passwd_mail = ''					#password
+
+#收件人列表
+receiveList = ['', '']				#receiver list
+
+#淘宝
+tb_username = ''					#taobao username
+tb_passwd = ''						#taobao password
+
+chromedriver_path = ''				#chrome dirver path
+img_root_path = ''					#imgs save path
+
+#taobao login
+login_address = 'https://login.taobao.com/member/login.jhtml?style=b2b&css_style=b2b&from=b2b&newMini2=true'
+order_address = ''					#orderlist url
+
+#local mysql 
+db_host = 'localhost'
+db_user = ''
+db_passwd = ''
+db_dbname = ''
